@@ -1,0 +1,8 @@
+MAIN:
+g++ -std=c++17 day2.cpp -c
+g++ day2.o -o day2
+./day2
+
+SHORTCUT:
+g++ day2.cpp -o day2
+./day2  
